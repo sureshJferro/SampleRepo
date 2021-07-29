@@ -10,6 +10,7 @@
     <form id="form1" runat="server">   
         <label>hai buddy</label>
           <label>suresh here</label>
+        <inupt type="button" id="btn1" class="primary" />
     </form>
 </body>
 </html>
