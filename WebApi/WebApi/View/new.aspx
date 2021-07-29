@@ -10,7 +10,9 @@
     <form id="form1" runat="server">   
         <label>hai buddy</label>
           <label>suresh here</label>
-        <inupt type="button" id="btn1" class="primary" />
+        <inupt type="button" id="btn1" value="Submit" class="primary" />
+        <inupt type="button" id="btn3" valuue="Clear" class="primary" />
+         <inupt type="button" id="btn2" valuue="Close" class="primary" />
     </form>
 </body>
 </html>
